@@ -1,0 +1,3 @@
+<html><body><p>At a recent FabLab San Diego meetup, I was helping others to install <a title="Inkscape" href="http://inkscape.org" target="_blank">Inkscape</a>. I wrote some tips down from my install experience. Here's a link to the PDF: <a title="Installing Inkscape on a Recent Mac" href="https://github.com/willingc/fablab-sd/blob/master/inkscape%20install.pdf" target="_blank">https://github.com/willingc/fablab-sd/blob/master/inkscape install.pdf</a>
+
+I hope these tips help you. Happy creating!</p></body></html>
