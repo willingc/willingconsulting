@@ -1,3 +1,11 @@
+.. title: What's a Fab Lab?
+.. slug: whats-a-fab-lab
+.. date: 2015-08-09 12:14:40
+.. tags: Arduino,community,education,Fab Lab San Diego,fablab,open source,outreach,python,raspberry pi,build,community,education,learn
+.. description: 
+.. wp-status: publish
+
+
 A Fab Lab is a community space for people to gather and fabricate their dreams and ideas.
 
 A <a href="http://fab.cba.mit.edu/about/faq/" target="_blank">formal definition of a Fab Lab</a> can be seen at the <a href="http://cba.mit.edu/" target="_blank">MIT Center for Bits and Atoms</a>. The <a href="http://www.fabfoundation.org/fab-labs/" target="_blank">Fab Foundation's website</a> has a map of many Fab Labs around the world and information about the Fab Lab charter and how to start a Fab Lab.

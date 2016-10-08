@@ -1,3 +1,10 @@
+.. title: Weekend Whimsy: String theory, The Hics, and Candy Chang
+.. slug: weekend-whimsy-string-theory-the-hics-and-candy-chang
+.. date: 2013-09-29 09:24:36
+.. tags: a capella science,bohemian gravity,candy chang,change,community,linuxcon 2013,music,tedx,the hics,learn,teamwork,wisdom
+.. description: 
+.. wp-status: publish
+
 <html><body><p>I'm keeping it short this morning while I write a little software. I'm enjoying some good music, art, and community. Enjoy!
 
 I've been singing this gem from A Capella Science for days now. Catchy lyrics and a little string theory. Awesome.

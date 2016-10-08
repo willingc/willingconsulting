@@ -1,3 +1,10 @@
+.. title: Moving Forward Monday: Meaningful, Mindful, Mental Health Resources
+.. slug: moving-forward-monday-meaningful-mindful-mental-health-resources
+.. date: 2013-08-19 20:41:28
+.. tags: It's Up to Us,Know the Signs,mental health,mindfulness,suicide prevention,UCSD Center for Mindfulness,education,learn
+.. description: 
+.. wp-status: publish
+
 <html><body><i>[Note: The links to other sites and this post may have triggers to those healing]</i>
 
 "Lean In" is a popular saying these days. Yes, I think it is great to get more women (and underrepresented groups) into higher levels of management and more equity in tech. It's a change that I hope I see in my lifetime.

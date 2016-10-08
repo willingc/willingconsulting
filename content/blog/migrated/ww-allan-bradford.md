@@ -1,3 +1,11 @@
+.. title: Weekend Wisdom: Distributed Network Data by Alasdair Allan and Kipp Bradford (O’Reilly Media)
+.. slug: ww-allan-bradford
+.. date: 2013-08-24 21:30:33
+.. tags: Alasdair Allan,Arduino,Distributed Network Data,Kipp Bradford,XBee,book review,build,learn,wisdom
+.. description: 
+.. wp-status: publish
+
+
 When I pick up a cookbook to try a new recipe, I want to know that the recipe has been tested and works. If the recipe doesn’t work out, the cookbook gets tossed on a bottom shelf to gather dust. I hold my technical books to a similar standard.
 
 If you want to create a network of multi-sensor Arduino modules that share information, this book delivers. The authors’ extensive “hands on” experience produces a practical recipe for success. Beginners through intermediate users will appreciate the clarity of steps building from parts to a working network of sensor modules.

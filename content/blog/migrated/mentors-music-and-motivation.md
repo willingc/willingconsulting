@@ -1,3 +1,11 @@
+.. title: Mentors, music, and motivation
+.. slug: mentors-music-and-motivation
+.. date: 2015-03-18 14:36:03
+.. tags: communication,community,JoAnne Yates,mentoring,music,writespeakcode,education,learn
+.. description: 
+.. wp-status: publish
+
+
 <html><body><p>As I get ready to attend the <a href="http://www.writespeakcode.com/" title="writespeakcode" target="_blank">Write/Speak/Code</a> conference, I'm doing more reflecting on the past few months than packing for the trip. While I would like to leave San Diego with warm enough clothes for New York City, I want to write a few brief thoughts about learning from others.
 
 Learning from others is one of the things that I love most about software development. While I enjoy my time quietly working through code on my own, I value the time that I spend collaborating with other developers. When I was a child, black rotary phones were popular, libraries were a great place to do research and pore through musty books, and mailboxes were quaint boxes that held paper envelopes, postcards, and the annual Sears catalog.

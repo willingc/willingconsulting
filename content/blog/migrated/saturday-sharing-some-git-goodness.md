@@ -1,3 +1,12 @@
+.. title: Saturday Sharing: Some git goodness
+.. slug: saturday-sharing-some-git-goodness
+.. date: 2014-03-01 07:58:31
+.. tags: git,GitHub,open source,pyladies,python,sharing,learn,software
+.. description: 
+.. wp-status: publish
+
+
+
 <html><body><a href="https://willingconsulting.com/wp-content/uploads/2014/03/2013-08-17-14.12.49.jpg"><img class="size-medium wp-image-310 " title="Cat enjoying git goodness" src="https://willingconsulting.com/wp-content/uploads/2014/03/2013-08-17-14.12.49-225x300.jpg" alt="cute cat" width="225" height="300"></a> Cat enjoying git goodness
 
 Version control and sharing source code help developers hone their craft. If you are new to developing software, learning git can seem a confusing task. In many ways, git is elegant in its simplicity and effectiveness.

@@ -1,3 +1,10 @@
+.. title: Mission moment: Mark Hammond, PSF Distinguished Service Award Recipient
+.. slug: mission-moment-hammond
+.. date: 2015-06-09 13:48:58
+.. tags: Brian Curtin,Distinguished Service Award,Mark Hammond,mission,psf,python,community,education,software,wisdom
+.. description: 
+.. wp-status: publish
+
 <html><body><p>Today, the Python Software Foundation, commonly known as PSF in the Python community, gave the PSF Distinguished Service Award to Mark Hammond. Brian Curtin, a past PSF Director and long-time communicator of "community" importance, wrote a thoughtful <a href="http://pyfound.blogspot.com/2015/06/mark-hammond-receives-distinguished.html" target="_blank">PSF blog post</a> about Mark's many contributions to our Python community.
 </p><blockquote>The wonderful Python community also has itself to thank for allowing this book to come to fruition. The Python newsgroup seems to be one of the final bastions of Usenet where spams are ignored, newbies are treated kindly, and trolls are either ignored or quickly turned into a serious and on-topic discussion. Many smart and friendly people hang out on the newsgroup, and it's one of the more esoteric reasons many people find using the language enjoyable.</blockquote>
 <em>Source: Mark Hammond and Andy Robinson, Python Programming on Win32, O'Reilly &amp; Associates, Inc., 2000.</em>

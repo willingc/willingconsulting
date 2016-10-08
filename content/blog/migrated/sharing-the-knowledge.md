@@ -1,3 +1,10 @@
+.. title: Sharing the Knowledge
+.. slug: sharing-the-knowledge
+.. date: 2013-02-10 10:15:58
+.. tags: 3D printing,FIRST,knowledge,lulzbot,open source,teamwork
+.. description: 
+.. wp-status: publish
+
 I have the pleasure of mentoring a talented group of high school students. They are the soul of <a title="Team 2102 Paradox" href="http://www.sdarobotics.org" target="_blank">Team 2102 Paradox of San Dieguito Academy</a>. They are creative, curious, humble, dedicated, and caring. They strive to embody "Gracious Professionalism", a term used by <a title="FIRST" href="http://www,usfirst.org" target="_blank">FIRST</a> Robotics that is a parallel to the "Golden Rule" learned in childhood.
 
 Sharing knowledge and teamwork are so vital in solving the current challenges in the world. Open source software and hardware embraces these two qualities. The teams of developers that participate in open source create solutions to problems that seemed unsolvable only a few years ago.

@@ -1,3 +1,11 @@
+.. title: Music, Data Science, and Community - Poster at PyCon 2014
+.. slug: music-data-science-and-community-poster-at-pycon-2014
+.. date: 2015-01-21 17:30:48
+.. tags: education,MIT,music,image,python,community
+.. description: 
+.. wp-status: publish
+
+
 <html><body><p>I had the pleasure of sharing my love of music and programming last spring at PyCon 2014. I enjoyed presenting a poster about music21, a computer aided musicology framework. Michael Cuthbert, an MIT professor of Music, has done great work making music theory accessible to learners and researchers.
 
 I believe that music brings together community. One community that I am so pleased to be a participate in is the San Diego Python community (San Diego Python User Group and PyLadies San Diego). Whether it's collaborating in a study group, sharing tips on IRC, or holding workshops for community outreach and knowledge sharing, the San Diego group embraces thoughtfulness, respect, and decency toward others.

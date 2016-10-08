@@ -1,3 +1,11 @@
+.. title: Moving Forward Monday: Mountains or Molehills
+.. slug: moving-forward-monday-mom
+.. date: 2013-08-12 16:10:20
+.. tags: Ada Initiative,mom,teamwork,Alzheimer's,simplicity,teamwork,women
+.. description: 
+.. wp-status: publish
+
+
 <html><body><p>I recently moved my mom into a nursing home. My dad, who has been her steady caregiver for many years, had made the decision that they needed more care and support during my mom's most severe stage of Alzheimer's.
 
 There were times when I felt that moving my mom from her home of many years would be as difficult as moving a mountain. Actually, I like to think of the mountain as a huge iceberg with a herd of elephants perch<img class="size-medium wp-image-153 alignright" alt="2013-08-05 13.10.27" src="http://willingconsulting.com/wp-content/uploads/2013/08/2013-08-05-13.10.27-225x300.jpg" width="225" height="300">ed on top. Yes, moving my mom was emotionally difficult for my dad, my sibling, and me. My mom, though a little anxious of her new home, made the best of this transition. In fact, I believe she did better than the rest of us.

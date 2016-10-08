@@ -1,3 +1,10 @@
+.. title: What can you do in 8 minutes? The importance of allies in advocacy
+.. slug: what-can-you-do-in-8-minutes-the-importance-of-allies-in-advocacy
+.. date: 2013-10-22 09:53:07
+.. tags: advocacy,allies,glsen,laila al-shamma,linux,linux foundation,open source,python,community,wisdom
+.. description: 
+.. wp-status: publish
+
 <html><body><p>8 minutes and 18 seconds. It's a small amount of time. Yet, Laila Al-Shamma uses it wisely.
 
 Recently, Laila Al-Shamma was honored by GLSEN as the 2013 Student Advocate of the Year. She is someone who makes her local community a better, safer place not just for herself but for others as well. Her strength, honesty, and humility shine through in her acceptance speech.

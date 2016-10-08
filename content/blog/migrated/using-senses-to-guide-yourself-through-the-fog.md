@@ -1,3 +1,11 @@
+.. title: Using Senses to Guide Yourself Through the Fog
+.. slug: using-senses-to-guide-yourself-through-the-fog
+.. date: 2013-02-05 20:15:57
+.. tags: create,future,mom,simplicity,Alzheimer's,senses,software
+.. description: 
+.. wp-status: publish
+
+
 <html><body><p>My mom has Alzheimer's. Sometimes I wonder what she sees and thinks about her world. She only has about four phrases that she uses now. It is heartbreaking for me to no longer be seen and recognized by her. Yet, she smiles, hums to music, snuggles her blanket, and enjoys her orange chicken as if all is okay in her world.
 
 I believe that she is happy and content. As her world became foggier and less familiar, she found a way to make peace with the changes. As different cognitive skills left her, she embraced the simple joys that her senses still brought. Hearing a song from the 50s. Smelling a favorite cookie baking. Touching a big teddy bear. Savoring the taste of a newly found chocolate (an old favorite yet new to her each time). Seeing a sand crane flap his wings gave her moments of entertainment and wonder. Somehow the simplicity of these familiar senses created joy and peace as her complex brain began to break down.

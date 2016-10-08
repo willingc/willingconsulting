@@ -1,3 +1,11 @@
+.. title: SciPy 2014: A mother-daughter collaboration 
+.. slug: scipy-2014-a-mother-and-daughter-share-creativity-computer-science-and-communication
+.. date: 2014-07-14 05:36:09
+.. tags: communication,computer science,creativity,daughters,IPython notebook,mothers,pandas,python,scipy,women,community,education,open source,simplicity,teamwork
+.. description: 
+.. wp-status: publish
+
+
 <html><body><a href="https://willingconsulting.com/wp-content/uploads/2014/07/dv13.jpg"><img class="aligncenter size-medium wp-image-414" src="https://willingconsulting.com/wp-content/uploads/2014/07/dv13-300x225.jpg" alt="dv13" width="300" height="225"></a>
 
 I had the pleasure of sharing SciPy 2014 with my daughter. Well, the chance to share SciPy 2014 with a more grown up version of my daughter than the three year old girl exploring the Philippines.

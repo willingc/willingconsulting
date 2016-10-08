@@ -1,3 +1,11 @@
+.. title: Moving Forward Monday: The Ada Initiative
+.. slug: moving-forward-monday-the-ada-initiative
+.. date: 2013-03-18 11:24:51
+.. tags: Ada Initiative,future,open source,teamwork,women
+.. description: 
+.. wp-status: publish
+
+
 <html><body><p>If you haven't heard yet about the Ada Initiative, I highly recommend that you check out the good work that they are doing for women and men in open source technology
 
 Although a relatively young organization, the Ada Initiative has strong accomplishments: an anti-harassment policy for conferences, practical workshops teaching skills to men and others wishing to support women in open source, and AdaCamp. Their website provides much more detail on their growing impact. Please take a look at the <a title="The Ada Initiative home page" href="http://adainitiative.org" target="_blank">Ada Initiative</a>.

@@ -1,3 +1,11 @@
+.. title: Weekend Wisdom: “Python Pocket Reference” by Mark Lutz; O’Reilly Media
+.. slug: weekend-wisdom-python
+.. date: 2014-02-07 19:12:10
+.. tags: education,mark lutz,python,book review,software,wisdom
+.. description: 
+.. wp-status: publish
+
+
 <html><body><h2><a href="http://willingconsulting.com/wp-content/uploads/2014/02/cat.gif"><img class="size-full wp-image-279 alignright" alt="Python Pocket Reference" src="http://willingconsulting.com/wp-content/uploads/2014/02/cat.gif" width="180" height="296"></a><strong>A handy and helpful guide on the current state of Python</strong></h2>
 As someone who teaches beginning Pythonistas to learn to program, this updated edition of the Python Pocket Reference is worth keeping close at hand.
 

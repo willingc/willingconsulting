@@ -1,3 +1,10 @@
+.. title: Learn: MIT OpenCourseWare OCW
+.. slug: learn-mitocw
+.. date: 2013-08-13 22:48:21
+.. tags: education,free,MIT,OCW,workforce return,education,learn,open source
+.. description: 
+.. wp-status: publish
+
 <html><body><a title="Donate to MIT OCW" href="http://giving.mit.edu/priorities/ocw/"><img alt="OpenCourseWare (OCW)" src="http://giving.mit.edu/images/sidebar/ocw.jpg" width="300" height="180"></a> Source: MIT Website
 
 Thinking about returning to work after an extended absence?

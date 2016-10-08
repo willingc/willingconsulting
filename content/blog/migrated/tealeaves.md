@@ -1,3 +1,10 @@
+.. title: Thoughts for Tuesday: Tea Leaves
+.. slug: tealeaves
+.. date: 2013-09-24 15:28:51
+.. tags: future,linux plumbers conference,linuxcon,mom,tea,women,Alzheimer's,learn,senses,simplicity,wisdom
+.. description: 
+.. wp-status: publish
+
 It's been a week.
 
 Last Tuesday, I was listening to keynotes and sharing trivia at LinuxCon 2013. I also received a phone call that my mom was rushed to the ER with pneumonia. By Wednesday afternoon, the doctors were recommending that I travel to Florida as my mom's condition worsened. At 4:00am on  Thursday, I packed up my LinuxCon and Linux Plumbers Conference items and took the first available flight to Florida. I spent the day with my mom listening to her breathing mixed with soothing music. At 8:38pm Thursday evening, my mom passed away peacefully while I stroked her hair and rubbed her shoulder.

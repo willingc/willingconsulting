@@ -1,3 +1,11 @@
+.. title: Play it again pyvideo.org!
+.. slug: play-it-again-pyvideo-org
+.. date: 2015-06-03 07:19:33
+.. tags: education,psf,python,pyvideo.org,community,learn,open source,software,teamwork
+.. description: 
+.. wp-status: publish
+
+
 <html><body><p>Yesterday, the <a href="https://www.python.org/psf/">Python Software Foundation</a> posted <a href="http://pyfound.blogspot.com/2015/06/congratualations-to-new-board-of.html">results of the election</a> for the Board of Directors 2015-2016 term. Thank you to the many individuals that participated and helped with the election. 
 
 I want take a moment and give special thanks to the 2014-2015 PSF Board for their service and accomplishments. 
