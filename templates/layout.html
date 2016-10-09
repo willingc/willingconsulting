@@ -17,9 +17,9 @@
   <div class="container">
 
     <div class="row">
-      <div class="three columns" style="margin-top: 10%">
+      <div class="two columns" style="margin-top: 10%">
         <nav>
-          <h5 id="logo">Carol Willing</h5>
+          <h5 class="logo"></h5>
           <ul>
             <li{% if this._path == '/' %} class="active"{% endif
               %}><a href="{{ '/'|url }}">welcome</a></li>
@@ -41,15 +41,15 @@
       &nbsp;
       </div>
 
-      <div class="seven columns"  style="margin-top: 5%">
+      <div class="eight columns"  style="margin-top: 5%">
         {% block body %}{% endblock %}
       </div>
     </div>
   </div>
   <footer>
     <div class="row">
-      <div class="one column"></div>
-      <div class="eleven columns" style="margin-top: 5%">
+      <div class="two columns"></div>
+      <div class="ten columns" style="margin-top: 5%">
         &copy; Copyright 2016 by Carol Willing.
       </div>
     </div>
