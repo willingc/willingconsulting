@@ -10,41 +10,48 @@
 
 <!-- FONT
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-<link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Libre+Franklin:400,300,600" rel="stylesheet" type="text/css">
 
-<title>{% block title %}Welcome{% endblock %}willingconsulting.com</title>
+<title>{% block title %}{% endblock %}</title>
 <body>
   <div class="container">
 
     <div class="row">
-      <div class="three columns" style="margin-top: 5%">
+      <div class="three columns" style="margin-top: 10%">
         <nav>
-          <h3 id="logo">Carol Willing</h3>
+          <h5 id="logo">Carol Willing</h5>
           <ul>
             <li{% if this._path == '/' %} class="active"{% endif
-              %}><a href="{{ '/'|url }}">Welcome</a></li>
+              %}><a href="{{ '/'|url }}">welcome</a></li>
             {% for href, title in [
-              ['/blog', 'Blog'],
-              ['/events', 'Events'],
-              ['/about', 'About']
+              ['/blog', 'blog'],
+              ['/consulting', 'consulting'],
+              ['/events', 'speaking'],
+              ['/about', 'about'],
             ] %}
               <li{% if this.is_child_of(href) %} class="active"{% endif
                 %}><a href="{{ href|url }}">{{ title }}</a></li>
             {% endfor %}
 
             <li><a target="_blank" href="https://github.com/willingc">GitHub</a>
-            <li><a target="_blank" href="https://linkedin.com/in/carolwilling">LinkedIn</a><li><a target="_blank" href="https://twitter.com/willingcarol">Twitter</a>
+            <li><a target="_blank" href="https://linkedin.com/in/carolwilling">LinkedIn</a>
+            <li><a target="_blank" href="https://twitter.com/willingcarol">Twitter</a>
           </ul>
         </nav>
       &nbsp;
       </div>
 
-      <div class="nine columns"  style="margin-top: 5%">
+      <div class="seven columns"  style="margin-top: 5%">
         {% block body %}{% endblock %}
       </div>
     </div>
   </div>
   <footer>
-  &copy; Copyright 2016 by Carol Willing.
+    <div class="row">
+      <div class="one column"></div>
+      <div class="eleven columns" style="margin-top: 5%">
+        &copy; Copyright 2016 by Carol Willing.
+      </div>
+    </div>
   </footer>
 </body>

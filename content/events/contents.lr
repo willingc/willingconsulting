@@ -1,6 +1,6 @@
 _model: page
 ---
-title: Events
+title: Speaking and events
 ---
 body:
 
@@ -13,7 +13,7 @@ body:
 ## 2016
 
 - PyData Carolinas - Keynote
-- SciPy 2016 - Speaker, Diversity Lunch
+- SciPy 2016 - Invited speaker for Diversity Lunch
 - Write Speak Code - Speaker panelist, Speaker mentor, Code Day speaker and
   mentor
 - PyCon 2016 - Tutorials Co-chair, Poster presenter
