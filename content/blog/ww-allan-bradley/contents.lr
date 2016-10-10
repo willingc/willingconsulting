@@ -12,13 +12,9 @@ tags: Alasdair Allan,Arduino,Distributed Network Data,Kipp Bradford,XBee,book re
 ---
 body:
 
-
-<img style="display:block; margin-left:auto; margin-right:auto;" src="../../../blog/ww-allan-bradley/garden_succulent-225x300.jpg" />
-
+![succulent in pot](garden_succulent-225x300.jpg)
 
 **Distributed Network Data by Alasdair Allan and Kipp Bradford (O’Reilly Media)**
-
-![succulent in pot](garden_succulent-225x300.jpg)
 
 When I pick up a cookbook to try a new recipe, I want to know that the recipe
 has been tested and works. If the recipe doesn’t work out, the cookbook gets

@@ -19,9 +19,21 @@ nav ul {
 
 nav a {
    color: #222;
+   text-decoration: none;
 }
 
 .body {
   font-family: 'Libre+Franklin';
 }
 
+.byline {
+  font-family: 'Lato', sans-serif;
+  font-style: italic;
+  font-size: 0.8em;
+}
+
+
+.sidemenu {
+  font-family: 'Lato', sans-serif;
+  font-style: italic;
+}

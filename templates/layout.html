@@ -11,6 +11,9 @@
 <!-- FONT
 –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:400,300,600" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Lato:300i" rel="stylesheet">
+
+<script src="https://use.fontawesome.com/30695b3f91.js"></script>
 
 <title>{% block title %}{% endblock %}</title>
 <body>
@@ -18,7 +21,7 @@
 
     <div class="row">
       <div class="two columns" style="margin-top: 10%">
-        <nav>
+        <nav class="sidemenu">
           <h5 class="logo"></h5>
           <ul>
             <li{% if this._path == '/' %} class="active"{% endif
@@ -33,9 +36,9 @@
                 %}><a href="{{ href|url }}">{{ title }}</a></li>
             {% endfor %}
 
-            <li><a target="_blank" href="https://github.com/willingc">GitHub</a>
-            <li><a target="_blank" href="https://linkedin.com/in/carolwilling">LinkedIn</a>
-            <li><a target="_blank" href="https://twitter.com/willingcarol">Twitter</a>
+            <li><a target="_blank" href="https://github.com/willingc"><i class="fa fa-github" aria-hidden="true"></i>&nbsp; GitHub</a>
+            <li><a target="_blank" href="https://linkedin.com/in/carolwilling"><i class="fa fa-linkedin" aria-hidden="true"></i>&nbsp; LinkedIn</a>
+            <li><a target="_blank" href="https://twitter.com/willingcarol"><i class="fa fa-twitter" aria-hidden="true"></i>&nbsp; Twitter</a>
           </ul>
         </nav>
       &nbsp;
@@ -50,7 +53,7 @@
     <div class="row">
       <div class="two columns"></div>
       <div class="ten columns" style="margin-top: 5%">
-        &copy; Copyright 2016 by Carol Willing.
+        &copy; Copyright 2013-2016 by Carol Willing.
       </div>
     </div>
   </footer>
