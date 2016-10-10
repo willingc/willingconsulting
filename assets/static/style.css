@@ -22,6 +22,17 @@ nav a {
    text-decoration: none;
 }
 
+a {
+  color: #1EAEDB;
+  text-decoration: none;
+}
+a:hover {
+  color: #0FA0CE;
+  text-decoration: none;
+}
+
+
+
 .body {
   font-family: 'Libre+Franklin';
 }
@@ -30,6 +41,7 @@ nav a {
   font-family: 'Lato', sans-serif;
   font-style: italic;
   font-size: 0.8em;
+  color: #444444;
 }
 
 
